@@ -238,7 +238,7 @@
 
 - MultiSig enhanced security
 
-- 📌 **Repo:** [Backend](https://github.com/2-rust/COVault-App/tree/master/multisig-wallet)
+- 📌 **Repo:** [Backend](https://github.com/snowbeardo/COVault-App/tree/master/multisig-wallet)
 
 ### **🟡 BMP BRC20 (BRC20 Airdrop)**
 <img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/caee3d58-4038-4463-aeb8-8bbc5dc4c365">
