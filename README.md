@@ -26,7 +26,8 @@
 
 ### **🔷 Slither Game (Solana)**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/4308d409-4c30-481a-b6e2-2249dbccd4c1">
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/7efaab18-f0c1-4ae6-978a-66287fb98d52">
+
 
 - Real-time multiplayer game platform built for low-latency, high-concurrency gameplay
 
@@ -58,7 +59,7 @@
 
 ### **🔷 Theruneguardians (Bitcoin)**
 
-<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/81a39b18-6ab5-4c07-824f-1ef5d7955d7b">
+<img align="right" width="350px" height="170px" src="https://github.com/user-attachments/assets/66460820-82d1-490c-b91e-ba5351140e71">
 
 - P2E Web3 game built on Bitcoin Ordinals and Rune tokens
 
